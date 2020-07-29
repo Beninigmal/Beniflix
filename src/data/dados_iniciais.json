@@ -1,80 +1,80 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Dota 2",
+      "link": "https://www.youtube.com/watch?v=4us6uGw298g",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Acesse o nosso discord!",
+        "url": "https://discord.gg/dsA5P44"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O heroi mais roubado para fechar Grand Magus Labirinto!",
+          "url": "https://www.youtube.com/watch?v=4us6uGw298g"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Aghanim's labyrinth ADVANCED GUIDE: tips and tricks",
+          "url": "https://www.youtube.com/watch?v=8i8gHpvdg00&t=1157s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "SVEN DE VOLTA NO 7.27b? MIDAS ABSURDAMENTE OP!",
+          "url": "https://www.youtube.com/watch?v=zjiVMl3I2oA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "THEY NEVER SEE IT COMING STORM SPIRIT SUPPORT",
+          "url": "https://www.youtube.com/watch?v=B3SF9PGTxdE&t=1093s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Sorry dota watafak",
+          "url": "https://www.youtube.com/watch?v=GXU_BTCQYQM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "THE BATTLEPASS 2020 DOTA2 ANIMATION",
+          "url": "https://www.youtube.com/watch?v=L5ahtlyhmF8&t"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "I JUST WANT TO FINISH MY GUILD CONTRACT PLEASE DON'T NERF TIDEHUNTER",
+          "url": "https://www.youtube.com/watch?v=EhVFxjLZoN0"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Aprenda Dota 2 em 7 passos!",
+          "url": "https://www.youtube.com/watch?v=4us6uGw298g"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Solo Leveling",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Solo leveling e o covil duplo",
+        "url": "https://unionleitor.top/perfil-manga/solo-leveling"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Solo leveling - O covil duplo",
+          "url": "https://www.youtube.com/watch?v=K9TW3EYckOM&list=PL4LtyKoyRpJVFSxZRF-DmT09rM8PDhLvU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Solo leveling - Se preparando pra ficar monstro!",
+          "url": "https://www.youtube.com/watch?v=tIDdXngEGH4&list=PL4LtyKoyRpJVFSxZRF-DmT09rM8PDhLvU&index=2"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Solo leveling - Levanta ai namoral Igris",
+          "url": "https://www.youtube.com/watch?v=deWQmK8k0gg&list=PL4LtyKoyRpJVFSxZRF-DmT09rM8PDhLvU&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Solo leveling - Vacilou, virou sombra!",
+          "url": "https://www.youtube.com/watch?v=a5JAVzB5CJk&list=PL4LtyKoyRpJVFSxZRF-DmT09rM8PDhLvU&index=4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Solo leveling - Achou que eu tava brincando...",
+          "url": "https://www.youtube.com/watch?v=iqJooTRNkoc&list=PL4LtyKoyRpJVFSxZRF-DmT09rM8PDhLvU&index=5"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Tecnologia",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -82,42 +82,42 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Como centralizar no CSS",
+          "url": "https://www.youtube.com/watch?v=Cu-HP-gvggg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "CSS Grid Layout e Flexbox - Quando Utilizar",
+          "url": "https://www.youtube.com/watch?v=x-4z_u8LcGc&t"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "PRIMEIRO EMPREGO na PROGRAMAÇÃO: Como conseguimos?",
+          "url": "https://www.youtube.com/watch?v=ANuNi0AYMT0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "3 dicas para Programadores conseguirem vaga de emprego (Marco Bruno - CollabCode) [COM DICA PLUS]",
+          "url": "https://www.youtube.com/watch?v=1Ko0szGJhMQ"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Linux",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Onde o Linux pode ser usado? - Curso Linux #01",
+          "url": "https://www.youtube.com/watch?v=R_8l3xj3QEg"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Linux com tema macOS 😮 - Ubuntu (GNOME) McMojave",
+          "url": "https://www.youtube.com/watch?v=YmOm6tvRo1w"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Sir Rob Linux Notícias 19 a 25/7/20 - Tópicos e Links na Descrição",
+          "url": "https://www.youtube.com/watch?v=8Oz9C-tKctA"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "O Guia DEFINITIVO de UBUNTU para Devs Iniciantes",
+          "url": "https://www.youtube.com/watch?v=epiyExCyb2s&t"
         }
       ]
     },
